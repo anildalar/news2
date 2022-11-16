@@ -1,0 +1,11 @@
+touch filename
+
+Ctrl + s = Save
+
+md = make directory
+
+md directoryname
+
+mkdir  = make directory
+
+cls = clear screen
