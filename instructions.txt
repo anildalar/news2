@@ -9,3 +9,7 @@ md directoryname
 mkdir  = make directory
 
 cls = clear screen
+
+<a>  = anchor tag
+
+href = hyperlink reference
